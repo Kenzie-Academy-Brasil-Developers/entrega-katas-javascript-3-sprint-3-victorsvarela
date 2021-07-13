@@ -375,6 +375,7 @@ function kataBonus4() {
     }
 }
 
+
 function kataBonus5() {
     // implemente o código do kata bonus 5 aqui
     let counter = 0
